@@ -1,0 +1,17 @@
+<application>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration />
+    </phpmd_settings>
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration standards="Ecg;EcgM2;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="$USER_HOME$/.phpbrew/php/php-7.0.7/bin/php" id="dbd491af-a052-41f6-a8fa-bd94df097320" name="PHP" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+</application>
