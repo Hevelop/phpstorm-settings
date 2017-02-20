@@ -13,8 +13,8 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>di.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.phtml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
