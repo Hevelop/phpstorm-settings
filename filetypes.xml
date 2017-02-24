@@ -4,6 +4,7 @@
       <mapping pattern="n98-magerun" type="PLAIN_TEXT" />
       <mapping pattern="directive" type="PLAIN_TEXT" />
       <mapping pattern="aggiungre entity id e type alla tabell udropship_vendor" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="aws-stack" type="PLAIN_TEXT" />
       <mapping pattern="lista-installazione" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -16,7 +17,6 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
       <mapping ext="bkg" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
@@ -24,6 +24,7 @@
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="stack" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
