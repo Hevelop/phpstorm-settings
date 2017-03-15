@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="orig" type="PHP" />
       <mapping pattern="n98-magerun" type="PLAIN_TEXT" />
       <mapping pattern="directive" type="PLAIN_TEXT" />
       <mapping pattern="aggiungre entity id e type alla tabell udropship_vendor" type="PLAIN_TEXT" />
