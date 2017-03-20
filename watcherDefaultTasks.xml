@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="--bare --compile $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
