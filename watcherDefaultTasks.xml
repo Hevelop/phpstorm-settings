@@ -50,7 +50,7 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="--sourcemap=none --no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
