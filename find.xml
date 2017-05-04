@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,8 +24,8 @@
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
-      <mask>*.phtml</mask>
       <mask>*.less</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
