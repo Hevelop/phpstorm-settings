@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,7 +19,6 @@
       <mask>*.csv</mask>
       <mask>*.pg</mask>
       <mask>*.less</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*</mask>
@@ -30,6 +30,11 @@
       <mask>*.phtmò</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
+      <mask>*.phml</mask>
+      <mask>*.pml</mask>
+      <mask>*ml</mask>
+      <mask>*.ml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
