@@ -28,6 +28,7 @@
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
