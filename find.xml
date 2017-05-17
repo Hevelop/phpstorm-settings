@@ -6,6 +6,7 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
+      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.java</mask>
@@ -13,28 +14,9 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>di.xml</mask>
-      <mask>*.csv</mask>
-      <mask>*.pg</mask>
-      <mask>*.less</mask>
-      <mask>*</mask>
       <mask>*.php</mask>
-      <mask>*.phtmò</mask>
-      <mask>*.phml</mask>
-      <mask>*.pml</mask>
-      <mask>*ml</mask>
-      <mask>*.ml</mask>
+      <mask>di.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.p'0</mask>
-      <mask>*.p'</mask>
-      <mask>*.p</mask>
-      <mask>*.phy</mask>
-      <mask>*.ph</mask>
-      <mask>*.pht</mask>
-      <mask>*.phtm</mask>
       <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
