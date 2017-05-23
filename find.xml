@@ -20,13 +20,24 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>di.xml</mask>
-      <mask>*.csv</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.p</mask>
-      <mask>*.pg</mask>
+      <mask>re</mask>
+      <mask>req</mask>
+      <mask>requi</mask>
+      <mask>require</mask>
+      <mask>require-</mask>
+      <mask>require-con</mask>
+      <mask>require-conf</mask>
+      <mask>require-config</mask>
+      <mask>require-config.</mask>
+      <mask>require-config.j</mask>
+      <mask>require-config.js</mask>
+      <mask>requirejs-config.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.ph</mask>
-      <mask>*.pht</mask>
-      <mask>*.phtm</mask>
       <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
