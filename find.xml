@@ -21,10 +21,6 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>re</mask>
-      <mask>req</mask>
-      <mask>requi</mask>
-      <mask>require</mask>
       <mask>require-</mask>
       <mask>require-con</mask>
       <mask>require-conf</mask>
@@ -32,11 +28,16 @@
       <mask>require-config.</mask>
       <mask>require-config.j</mask>
       <mask>require-config.js</mask>
-      <mask>requirejs-config.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ph</mask>
       <mask>*.phtml</mask>
+      <mask>re</mask>
+      <mask>req</mask>
+      <mask>requi</mask>
+      <mask>require</mask>
+      <mask>requirejs</mask>
+      <mask>requirejs-config.js</mask>
     </recentFileMasks>
   </component>
 </application>
