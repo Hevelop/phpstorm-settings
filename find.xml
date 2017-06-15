@@ -5,11 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>require-conf</mask>
-      <mask>require-config</mask>
-      <mask>require-config.</mask>
-      <mask>require-config.j</mask>
       <mask>require-config.js</mask>
       <mask>re</mask>
       <mask>req</mask>
@@ -36,6 +33,10 @@
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
