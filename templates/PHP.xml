@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="clcs" value="/**&#10; * Class ${NAME}&#10; *&#10; * @category Magento_Module&#10; * @package  Hevelop_{MODULE}&#10; * @author   Simone Marcato &lt;simone@hevelop.com&gt;&#10; * @license  http://opensource.org/licenses/agpl-3.0  GNU Affero General Public License v3 (AGPL-3.0)&#10; * @link     https://hevelop.com/&#10; */" shortcut="ENTER" toReformat="true" toShortenFQNames="true">
+  <template name="clcs" value="/**&#10; * Class ${NAME}&#10; *&#10; * @category Magento_Module&#10; * @package  Hevelop_{MODULE}&#10; * @author   Simone Marcato &lt;simone@hevelop.com&gt;&#10; * @license  http://opensource.org/licenses/agpl-3.0  GNU Affero General Public License v3 (AGPL-3.0)&#10; * @link     https://hevelop.com/&#10; */" shortcut="ENTER" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Comment" value="true" />
     </context>
