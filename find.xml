@@ -8,9 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>require-config.js</mask>
-      <mask>re</mask>
-      <mask>req</mask>
       <mask>requi</mask>
       <mask>require</mask>
       <mask>requirejs</mask>
@@ -18,13 +15,10 @@
       <mask>+:</mask>
       <mask>+.</mask>
       <mask>+</mask>
-      <mask>*</mask>
       <mask>.phtml</mask>
       <mask>.phtm</mask>
       <mask>.</mask>
       <mask>*.xmlk</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
@@ -36,8 +30,14 @@
       <mask>*.phtml</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
