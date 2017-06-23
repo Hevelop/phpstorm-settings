@@ -6,7 +6,7 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration standards="Ecg;EcgM2;MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/bin/phpcs" />
+      <PhpCSConfiguration standards="Ecg;EcgM2;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
