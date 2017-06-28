@@ -5,11 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>require</mask>
-      <mask>requirejs</mask>
-      <mask>requirejs-config.js</mask>
-      <mask>+:</mask>
       <mask>+.</mask>
       <mask>+</mask>
       <mask>.phtml</mask>
@@ -36,6 +33,10 @@
       <mask>*.phtmò</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
