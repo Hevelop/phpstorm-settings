@@ -5,13 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>require</mask>
-      <mask>requirejs</mask>
-      <mask>requirejs-config.js</mask>
-      <mask>+:</mask>
-      <mask>+.</mask>
       <mask>+</mask>
       <mask>.phtml</mask>
       <mask>.phtm</mask>
@@ -28,15 +22,20 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
       <mask>*.pht</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*css</mask>
+      <mask>*cs</mask>
+      <mask>*c</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>
