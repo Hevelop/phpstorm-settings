@@ -1,43 +1,40 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="preserveCase" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
+      <mask>+.</mask>
+      <mask>+</mask>
+      <mask>.phtml</mask>
+      <mask>.phtm</mask>
+      <mask>.</mask>
+      <mask>*.xmlk</mask>
       <mask>*.js</mask>
-      <mask>*.as</mask>
+      <mask>*.j</mask>
       <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>di.xml</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>re</mask>
-      <mask>req</mask>
-      <mask>requi</mask>
-      <mask>require</mask>
-      <mask>require-</mask>
-      <mask>require-con</mask>
-      <mask>require-conf</mask>
-      <mask>require-config</mask>
-      <mask>require-config.</mask>
-      <mask>require-config.j</mask>
-      <mask>require-config.js</mask>
-      <mask>requirejs-config.js</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
       <mask>*</mask>
+      <mask>*.phtmò</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
       <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtm</mask>
       <mask>*.phtml</mask>
     </recentFileMasks>
   </component>

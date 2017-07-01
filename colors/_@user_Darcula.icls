@@ -1,0 +1,24 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-06-26T10:47:06</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.1.4.0.0</property>
+    <property name="modified">2017-06-26T12:58:28</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1f1f1f" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
