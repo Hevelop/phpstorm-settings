@@ -6,18 +6,36 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
+      <mask>+.</mask>
+      <mask>+</mask>
+      <mask>.phtml</mask>
+      <mask>.phtm</mask>
+      <mask>.</mask>
+      <mask>*.xmlk</mask>
       <mask>*.js</mask>
-      <mask>*.as</mask>
+      <mask>*.j</mask>
       <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>di.xml</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*</mask>
+      <mask>*.phtmò</mask>
+      <mask>*.sc</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.phtm</mask>
       <mask>*.phtml</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
