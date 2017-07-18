@@ -25,14 +25,14 @@
       <mask>*.pht</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
       <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
