@@ -7,13 +7,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
-      <mask>.phtml</mask>
-      <mask>.phtm</mask>
-      <mask>.</mask>
       <mask>*.xmlk</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.phtmò</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
@@ -31,11 +25,17 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
