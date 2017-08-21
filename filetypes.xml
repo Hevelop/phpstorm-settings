@@ -12,6 +12,7 @@
       <mapping pattern="n98-magerun" type="PLAIN_TEXT" />
       <mapping pattern="varnish1" type="PLAIN_TEXT" />
       <mapping pattern="aggiungre entity id e type alla tabell udropship_vendor" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignoreold" type="PLAIN_TEXT" />
       <mapping pattern="lista-installazione" type="PLAIN_TEXT" />
       <mapping pattern="directive" type="PLAIN_TEXT" />
       <mapping pattern="ciao" type="PLAIN_TEXT" />
@@ -25,7 +26,6 @@
       <mapping ext="flag" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="stack" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="master" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="bkg" type="PLAIN_TEXT" />
@@ -34,6 +34,7 @@
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
