@@ -5,11 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.csv" />
     <recentFileMasks>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*xml</mask>
       <mask>*xm</mask>
@@ -33,9 +30,13 @@
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
+      <mask>*</mask>
+      <mask>*.sd</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
-      <mask>*</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.csv</mask>
     </recentFileMasks>
   </component>
 </application>
