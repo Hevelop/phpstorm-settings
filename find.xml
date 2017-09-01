@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ph*" />
     <recentFileMasks>
       <mask>*ph</mask>
       <mask>*p</mask>
@@ -26,16 +27,16 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.ph*</mask>
       <mask>*.s</mask>
       <mask>*.swf</mask>
       <mask>*.sw</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.pht</mask>
-      <mask>*.phtm</mask>
       <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.ph*</mask>
     </recentFileMasks>
   </component>
 </application>
