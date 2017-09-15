@@ -14,7 +14,6 @@
       <mask>*.sw</mask>
       <mask>*.ph*</mask>
       <mask>*.phj</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.xsl</mask>
@@ -32,8 +31,9 @@
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
+      <mask>*.js</mask>
+      <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
