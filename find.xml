@@ -34,8 +34,8 @@
       <mask>*.*</mask>
       <mask>*.*c</mask>
       <mask>*.*cs</mask>
-      <mask>*.*css</mask>
       <mask>*.*css*</mask>
+      <mask>*.*css</mask>
     </recentFileMasks>
   </component>
 </application>
