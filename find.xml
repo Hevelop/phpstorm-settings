@@ -14,10 +14,6 @@
       <mask>*.xls</mask>
       <mask>*.xl</mask>
       <mask>*</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.xml</mask>
@@ -36,6 +32,10 @@
       <mask>*.*cs</mask>
       <mask>*.*css</mask>
       <mask>*.*css*</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
