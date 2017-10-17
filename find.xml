@@ -20,10 +20,6 @@
       <mask>*ss</mask>
       <mask>*s</mask>
       <mask>*</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*.ph*</mask>
       <mask>*.x*</mask>
       <mask>*.xm*</mask>
@@ -34,10 +30,14 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
