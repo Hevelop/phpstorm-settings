@@ -16,9 +16,6 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.pht</mask>
-      <mask>*.phtm</mask>
-      <mask>*.phtml</mask>
       <mask>*less</mask>
       <mask>*ess</mask>
       <mask>*ss</mask>
@@ -26,8 +23,6 @@
       <mask>*le</mask>
       <mask>*l</mask>
       <mask>*.ph*</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -36,6 +31,11 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtm</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
