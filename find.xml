@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -26,19 +26,19 @@
       <mask>*e</mask>
       <mask>*</mask>
       <mask>*.xl</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.pht</mask>
-      <mask>*.phtm</mask>
-      <mask>*.phtml</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
