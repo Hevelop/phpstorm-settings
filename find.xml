@@ -5,9 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ph*" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>.less*</mask>
       <mask>.less</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
@@ -19,16 +18,11 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.k</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -37,6 +31,12 @@
       <mask>*.*s</mask>
       <mask>*.*</mask>
       <mask>*.ph*</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js*</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
