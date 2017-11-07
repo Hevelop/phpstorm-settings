@@ -3,14 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>js</mask>
       <mask>.</mask>
@@ -31,15 +29,16 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.pht</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.phtm</mask>
       <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xms</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
