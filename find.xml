@@ -28,16 +28,16 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
-      <mask>*.ph</mask>
       <mask>*.ph*</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
