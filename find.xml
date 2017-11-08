@@ -8,6 +8,7 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
+      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>js</mask>
       <mask>.</mask>
@@ -18,7 +19,6 @@
       <mask>.les</mask>
       <mask>.less*</mask>
       <mask>.less</mask>
-      <mask>*.ph*</mask>
       <mask>*ess</mask>
       <mask>*es</mask>
       <mask>*e</mask>
@@ -28,16 +28,16 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
       <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
       <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xms</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
+      <mask>*.ph*</mask>
     </recentFileMasks>
   </component>
 </application>
