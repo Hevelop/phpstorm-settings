@@ -17,11 +17,7 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.phtml</mask>
       <mask>*.phtm</mask>
-      <mask>*.pht</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.p*</mask>
       <mask>*.js*</mask>
       <mask>*.j*</mask>
@@ -32,9 +28,13 @@
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.ph*</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
