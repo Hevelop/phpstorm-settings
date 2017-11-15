@@ -7,38 +7,38 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>.less*</mask>
       <mask>.less</mask>
       <mask>*ess</mask>
       <mask>*es</mask>
       <mask>*e</mask>
       <mask>*.xl</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.pht</mask>
       <mask>*.x</mask>
       <mask>*.p*</mask>
       <mask>*.js*</mask>
       <mask>*.j*</mask>
       <mask>*.*</mask>
       <mask>*</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
       <mask>*.ph*</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
+      <mask>*.pht</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
-      <mask>*.js</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
