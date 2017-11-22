@@ -6,17 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.p*</mask>
-      <mask>*.js*</mask>
-      <mask>*.j*</mask>
-      <mask>*.*</mask>
-      <mask>*.ph*</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.cml</mask>
       <mask>*.cm</mask>
       <mask>*.c</mask>
@@ -33,9 +22,20 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*</mask>
-      <mask>*j</mask>
       <mask>*js</mask>
+      <mask>*j</mask>
+      <mask>*ph</mask>
+      <mask>*p</mask>
+      <mask>*css</mask>
+      <mask>*cs</mask>
+      <mask>*c</mask>
+      <mask>*less</mask>
+      <mask>*les</mask>
+      <mask>*le</mask>
+      <mask>*l</mask>
+      <mask>*sc</mask>
+      <mask>*s</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
