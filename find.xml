@@ -6,8 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*j</mask>
-      <mask>*css</mask>
       <mask>*cs</mask>
       <mask>*c</mask>
       <mask>*less</mask>
@@ -32,10 +30,12 @@
       <mask>*.ph</mask>
       <mask>*.ph*</mask>
       <mask>*.ph*product-sku-block</mask>
-      <mask>*</mask>
-      <mask>*p</mask>
-      <mask>*ph</mask>
       <mask>*ph*</mask>
+      <mask>*ph</mask>
+      <mask>*p</mask>
+      <mask>*js</mask>
+      <mask>*j</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
