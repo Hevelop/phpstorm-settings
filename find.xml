@@ -5,13 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="widget.xml" />
     <recentFileMasks>
-      <mask>*l</mask>
-      <mask>*sc</mask>
-      <mask>*s</mask>
-      <mask>*.j</mask>
-      <mask>*.p*</mask>
-      <mask>*.*</mask>
       <mask>*.ph*product-sku-block</mask>
       <mask>*js</mask>
       <mask>*j</mask>
@@ -36,6 +31,12 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>w</mask>
+      <mask>wi</mask>
+      <mask>wid</mask>
+      <mask>widget.xmò</mask>
+      <mask>widget.xm</mask>
+      <mask>widget.xml</mask>
     </recentFileMasks>
   </component>
 </application>
