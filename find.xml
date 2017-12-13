@@ -7,20 +7,16 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.PHTML" />
     <recentFileMasks>
       <mask>*j</mask>
       <mask>*ph*</mask>
       <mask>*ph</mask>
       <mask>*p</mask>
-      <mask>*</mask>
       <mask>*.php</mask>
       <mask>*.ph*</mask>
       <mask>*.phm</mask>
-      <mask>*.PHTML</mask>
-      <mask>*.PHTM</mask>
       <mask>*.PHT</mask>
-      <mask>*.PH</mask>
-      <mask>*.P</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -33,11 +29,16 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.P</mask>
+      <mask>*.PH</mask>
+      <mask>*.PHTM</mask>
+      <mask>*.PHTML</mask>
     </recentFileMasks>
   </component>
 </application>
