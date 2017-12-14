@@ -2,25 +2,23 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="preserveCase" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*j</mask>
-      <mask>*ph*</mask>
-      <mask>*ph</mask>
       <mask>*p</mask>
+      <mask>*</mask>
       <mask>*.php</mask>
-      <mask>*.ph*</mask>
       <mask>*.phm</mask>
+      <mask>*.PHTML</mask>
+      <mask>*.PHTM</mask>
       <mask>*.PHT</mask>
+      <mask>*.PH</mask>
+      <mask>*.P</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
@@ -32,12 +30,13 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*</mask>
+      <mask>*.ph/</mask>
+      <mask>*.ph*</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.P</mask>
-      <mask>*.PH</mask>
-      <mask>*.PHTM</mask>
-      <mask>*.PHTML</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
