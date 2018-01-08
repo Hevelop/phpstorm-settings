@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>*.les</mask>
       <mask>*.le</mask>
@@ -19,9 +20,7 @@
       <mask>*.s</mask>
       <mask>*.cml</mask>
       <mask>*.cm</mask>
-      <mask>*.phmt</mask>
       <mask>*</mask>
-      <mask>*.phm</mask>
       <mask>*.phym</mask>
       <mask>*.phy</mask>
       <mask>*.c</mask>
@@ -30,14 +29,16 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
+      <mask>*.phmt</mask>
+      <mask>*.phm</mask>
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
