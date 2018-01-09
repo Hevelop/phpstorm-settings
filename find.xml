@@ -8,11 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.ph/</mask>
-      <mask>*.ph*</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
@@ -21,20 +16,25 @@
       <mask>*.cm</mask>
       <mask>*</mask>
       <mask>*.phym</mask>
-      <mask>*.phy</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.phmt</mask>
       <mask>*.phm</mask>
+      <mask>*.cl</mask>
+      <mask>*.csl</mask>
+      <mask>*.csvl</mask>
+      <mask>*.csv</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.pt</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.phy</mask>
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
