@@ -20,4 +20,7 @@
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="qualificationType" value="On collisions" />
+  </component>
 </application>
