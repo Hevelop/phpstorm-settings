@@ -11,13 +11,14 @@
       <mapping pattern="varnish1" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="aws-stack" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="ciao" type="PLAIN_TEXT" />
       <mapping pattern="amshopbyIndexIndex.js" type="PLAIN_TEXT" />
       <mapping pattern=".newgitignore" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="lista-installazione" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".modman" type="PLAIN_TEXT" />
+      <mapping pattern="Amasty_CustomerAttributes/templates/form/renderer" type="PLAIN_TEXT" />
       <mapping pattern="account-links-phtml" type="PLAIN_TEXT" />
       <mapping pattern=".basedir" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
