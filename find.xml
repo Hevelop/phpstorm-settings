@@ -5,10 +5,16 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
+      <mask>*.s</mask>
+      <mask>*.cml</mask>
+      <mask>*.cm</mask>
       <mask>*.phym</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.phmt</mask>
+      <mask>*.phm</mask>
       <mask>*.cl</mask>
       <mask>*.csl</mask>
       <mask>*.csvl</mask>
@@ -16,22 +22,17 @@
       <mask>*.pt</mask>
       <mask>*.phy</mask>
       <mask>*c</mask>
+      <mask>*</mask>
       <mask>*.phtò</mask>
       <mask>*.pht,</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.php</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.phmtl</mask>
-      <mask>*.phmt</mask>
-      <mask>*.phm</mask>
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
