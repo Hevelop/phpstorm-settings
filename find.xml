@@ -6,8 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>*.phtò</mask>
       <mask>*.pht,</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
@@ -15,15 +13,11 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*p</mask>
-      <mask>*ph</mask>
       <mask>*pht</mask>
       <mask>*phtml</mask>
       <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
-      <mask>*.xm</mask>
-      <mask>*.ph*</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.le</mask>
@@ -33,9 +27,15 @@
       <mask>*.cml</mask>
       <mask>*.cm</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*p</mask>
+      <mask>*ph</mask>
+      <mask>*ph*</mask>
+      <mask>*.ph*</mask>
     </recentFileMasks>
   </component>
 </application>
