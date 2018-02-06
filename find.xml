@@ -13,7 +13,6 @@
       <mask>*.scss</mask>
       <mask>*pht</mask>
       <mask>*phtml</mask>
-      <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
       <mask>*.cml</mask>
@@ -36,6 +35,7 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.csv</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
