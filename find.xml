@@ -5,7 +5,6 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*ph</mask>
       <mask>*ph*</mask>
@@ -16,14 +15,10 @@
       <mask>*.csv</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.phtyml</mask>
       <mask>*.phtym</mask>
       <mask>*.phty</mask>
-      <mask>*.pht</mask>
       <mask>*.phtm</mask>
-      <mask>*.phtml</mask>
       <mask>.</mask>
       <mask>.l</mask>
       <mask>.le</mask>
@@ -32,11 +27,15 @@
       <mask>.lesds</mask>
       <mask>.lesd</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
