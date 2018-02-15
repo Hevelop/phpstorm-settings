@@ -12,7 +12,6 @@
       <mask>*p</mask>
       <mask>*ph</mask>
       <mask>*ph*</mask>
-      <mask>*.ph*</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.csv</mask>
@@ -34,8 +33,9 @@
       <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.ph*</mask>
     </recentFileMasks>
   </component>
 </application>
