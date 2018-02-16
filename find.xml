@@ -5,8 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*phtml</mask>
       <mask>*.cml</mask>
       <mask>*.cm</mask>
       <mask>*p</mask>
@@ -36,6 +36,7 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.ph*</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
