@@ -29,13 +29,13 @@
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.ph*</mask>
       <mask>*.css</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
