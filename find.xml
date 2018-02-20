@@ -26,7 +26,6 @@
       <mask>*.ht</mask>
       <mask>*.html</mask>
       <mask>*</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
@@ -37,6 +36,7 @@
       <mask>*.ph</mask>
       <mask>*.ph*</mask>
       <mask>*.css</mask>
+      <mask>*.xml</mask>
       <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
