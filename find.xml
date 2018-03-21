@@ -33,9 +33,9 @@
       <mask>*.css</mask>
       <mask>*.*</mask>
       <mask>*.js</mask>
-      <mask>*.phtml</mask>
       <mask>*.xml</mask>
       <mask>*.php</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
