@@ -1,5 +1,8 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <PHPCodeStyleSettings>
+    <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
+  </PHPCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
     <option name="XML_TEXT_WRAP" value="0" />
