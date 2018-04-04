@@ -5,6 +5,7 @@
       <mapping pattern="n98-magerun" type="PLAIN_TEXT" />
       <mapping pattern="apple-developer-merchantid-domain-association" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="trilab-stg" type="PLAIN_TEXT" />
       <mapping pattern="directive" type="PLAIN_TEXT" />
       <mapping pattern=".newgitignore" type="PLAIN_TEXT" />
       <mapping pattern="amshopbyIndexIndex.js" type="PLAIN_TEXT" />
