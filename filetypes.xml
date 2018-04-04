@@ -2,47 +2,48 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="orig" type="PHP" />
-      <mapping pattern="aaa" type="PLAIN_TEXT" />
-      <mapping pattern="modman" type="PLAIN_TEXT" />
-      <mapping pattern="ciao" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="aws-stack" type="PLAIN_TEXT" />
-      <mapping pattern=".basedir" type="PLAIN_TEXT" />
-      <mapping pattern=".modman" type="PLAIN_TEXT" />
       <mapping pattern="n98-magerun" type="PLAIN_TEXT" />
-      <mapping pattern="varnish1" type="PLAIN_TEXT" />
-      <mapping pattern="powerup" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="apple-developer-merchantid-domain-association" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="directive" type="PLAIN_TEXT" />
+      <mapping pattern=".newgitignore" type="PLAIN_TEXT" />
+      <mapping pattern="amshopbyIndexIndex.js" type="PLAIN_TEXT" />
       <mapping pattern="aggiungre entity id e type alla tabell udropship_vendor" type="PLAIN_TEXT" />
       <mapping pattern="varnish2" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignoreold" type="PLAIN_TEXT" />
-      <mapping pattern="n98-magerun2" type="PLAIN_TEXT" />
-      <mapping pattern="apple-developer-merchantid-domain-association" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="aws-stack" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="directive" type="PLAIN_TEXT" />
-      <mapping pattern="AddController" type="PLAIN_TEXT" />
+      <mapping pattern="n98-magerun2" type="PLAIN_TEXT" />
+      <mapping pattern="ciao" type="PLAIN_TEXT" />
+      <mapping pattern="powerup" type="PLAIN_TEXT" />
       <mapping pattern="lista-installazione" type="PLAIN_TEXT" />
-      <mapping pattern="amshopbyIndexIndex.js" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".newgitignore" type="PLAIN_TEXT" />
+      <mapping pattern=".modman" type="PLAIN_TEXT" />
+      <mapping pattern="AddController" type="PLAIN_TEXT" />
+      <mapping pattern="varnish1" type="PLAIN_TEXT" />
       <mapping pattern="Amasty_CustomerAttributes/templates/form/renderer" type="PLAIN_TEXT" />
       <mapping pattern="account-links-phtml" type="PLAIN_TEXT" />
+      <mapping pattern=".basedir" type="PLAIN_TEXT" />
+      <mapping pattern="modman" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignoreold" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="tfstate" type="PLAIN_TEXT" />
+      <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="swf" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="stack" type="PLAIN_TEXT" />
       <mapping ext="bkg" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="plan" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="master" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="old" type="PLAIN_TEXT" />
-      <mapping ext="tfstate" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="stack" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
