@@ -23,6 +23,7 @@
       <mapping pattern="AddController" type="PLAIN_TEXT" />
       <mapping pattern="varnish1" type="PLAIN_TEXT" />
       <mapping pattern="Amasty_CustomerAttributes/templates/form/renderer" type="PLAIN_TEXT" />
+      <mapping pattern="jjj" type="PLAIN_TEXT" />
       <mapping pattern="account-links-phtml" type="PLAIN_TEXT" />
       <mapping pattern=".basedir" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
