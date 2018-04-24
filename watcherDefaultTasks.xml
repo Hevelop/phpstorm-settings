@@ -19,7 +19,7 @@
         </array>
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="coffee" />
+      <option name="program" value="$USER_HOME$/.nvm/versions/node/v4.5.0/bin/coffee" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
