@@ -19,6 +19,7 @@
       <mask>*php</mask>
       <mask>*less</mask>
       <mask>*.js</mask>
+      <mask>*.ph*</mask>
     </recentFileMasks>
   </component>
 </application>
