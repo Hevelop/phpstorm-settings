@@ -21,7 +21,7 @@
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
-    <mask>*.ph*</mask>
     <mask>*.hta*</mask>
+    <mask>*.ph*</mask>
   </component>
 </application>
