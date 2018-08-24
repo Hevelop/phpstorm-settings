@@ -1,9 +1,13 @@
 <application>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="9024" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="FONT_FACE" value=".SFNSText-Regular" />
+    <option name="FONT_SCALE" value="1.0" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="1" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
   </component>
 </application>
