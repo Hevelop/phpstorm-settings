@@ -20,7 +20,7 @@
     <mask>*.hta*</mask>
     <mask>*.html</mask>
     <mask>*.csv</mask>
-    <mask>*.ph*</mask>
     <mask>*.xml</mask>
+    <mask>*.ph*</mask>
   </component>
 </application>
