@@ -7,7 +7,7 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ph*" />
+    <option name="FILE_MASK" value="widget.xml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -23,7 +23,8 @@
     <mask>*.hta*</mask>
     <mask>*.html</mask>
     <mask>*.csv</mask>
-    <mask>*.xml</mask>
     <mask>*.ph*</mask>
+    <mask>*.xml</mask>
+    <mask>widget.xml</mask>
   </component>
 </application>
