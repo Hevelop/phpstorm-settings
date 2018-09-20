@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -15,7 +16,6 @@
     <mask>*.xml*</mask>
     <mask>*.phtml</mask>
     <mask>*.scss</mask>
-    <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.hta*</mask>
     <mask>*.html</mask>
@@ -23,5 +23,6 @@
     <mask>widget.xml</mask>
     <mask>*.xml</mask>
     <mask>*.ph*</mask>
+    <mask>*.less</mask>
   </component>
 </application>
