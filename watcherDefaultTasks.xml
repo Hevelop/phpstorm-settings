@@ -26,15 +26,15 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
-      <option name="arguments" value="--no-color $FileName$" />
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="$FileName$ $FileNameWithoutExtension$.css --source-map" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Less" />
-      <option name="output" value="../css/$FileNameWithoutExtension$.css" />
+      <option name="output" value="$FileNameWithoutExtension$.css:$FileNameWithoutExtension$.css.map" />
       <option name="outputFilters">
         <array>
           <FilterInfo>
@@ -44,11 +44,11 @@
           </FilterInfo>
         </array>
       </option>
-      <option name="outputFromStdout" value="true" />
+      <option name="outputFromStdout" value="false" />
       <option name="program" value="lessc" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="false" />
+      <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
