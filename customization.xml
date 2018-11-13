@@ -36,6 +36,17 @@
       <path value="Editor Popup Menu Actions (2)" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="RenameFile" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RenameFile" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Unwrap" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Editor Popup Menu" />
