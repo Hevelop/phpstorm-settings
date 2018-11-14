@@ -24,5 +24,6 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.ph*</mask>
+    <mask>*e.xml</mask>
   </component>
 </application>
